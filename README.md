@@ -254,11 +254,14 @@ This project is licensed under the ISC License.
 
 For any queries or support, please contact through GitHub issues.
 
-## 🙏 Acknowledgments
 
-- Built with the MERN stack
-- Designed for easy deployment on Replit
-- Inspired by modern home service platforms
+## 🧠 What I Learned
+
+- Designing RESTful APIs
+- Structuring backend using MVC pattern
+- Connecting frontend with backend securely
+- Managing environment variables
+- Handling CORS issues in production
 
 ---
 
